@@ -1,23 +1,13 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <a className="App-link" href="/storybook">Storybook →</a>
+
+        <h2 style={{ paddingBottom: 30}}>Fusion Builds</h2>
+        <a className="App-link" href="fusion-2.3.0.tgz">fusion-2.3.0.tgz</a>
       </header>
     </div>
   );
