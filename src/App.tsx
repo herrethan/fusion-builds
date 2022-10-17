@@ -8,6 +8,7 @@ function App() {
         <h2 style={{ paddingBottom: 30}}>Fusion Builds</h2>
         <a className="App-link" href="fusion-2.3.0.tgz">fusion-2.3.0.tgz</a>
         <a className="App-link" href="fusion-2.3.1.tgz">fusion-2.3.1.tgz</a>
+        <a className="App-link" href="fusion-2.3.3.tgz">fusion-2.3.3.tgz</a>
       </header>
     </div>
   );
