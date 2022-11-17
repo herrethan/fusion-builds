@@ -9,6 +9,7 @@ function App() {
         <a className="App-link" href="fusion-2.3.0.tgz">fusion-2.3.0.tgz</a>
         <a className="App-link" href="fusion-2.3.1.tgz">fusion-2.3.1.tgz</a>
         <a className="App-link" href="fusion-2.3.3.tgz">fusion-2.3.3.tgz</a>
+        <a className="App-link" href="fusion-2.4.0.tgz">fusion-2.4.0.tgz</a>
       </header>
     </div>
   );
